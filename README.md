@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShivanandTalewadikar
-- 👀 I’m interested in Python
+- 👀 I’m interested in Java
 - 🌱 I’m currently learning Computer science engineering
 - 💞️ I’m looking to collaborate on 3 members 
 - 📫 How to reach me mail or phone call 
